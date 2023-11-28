@@ -2,6 +2,74 @@
 	"entries" : 
 	[
 		{
+			"name" : "BoostExample_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Ingenier\u00eda Inform\u00e1tica UAX/2023-24/1er cuatrimestre/Programaci\u00f3n/Ejercicios/Caso-Final-Integrador-3/cmake-build-debug"
+		},
+		{
+			"name" : "BoostExample_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "BoostExample_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Ingenier\u00eda Inform\u00e1tica UAX/2023-24/1er cuatrimestre/Programaci\u00f3n/Ejercicios/Caso-Final-Integrador-3"
+		},
+		{
+			"name" : "Boost_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Boost."
+				}
+			],
+			"type" : "PATH",
+			"value" : "Boost_DIR-NOTFOUND"
+		},
+		{
+			"name" : "Boost_INCLUDE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a file."
+				}
+			],
+			"type" : "PATH",
+			"value" : "Boost_INCLUDE_DIR-NOTFOUND"
+		},
+		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -947,7 +1015,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Caso_Final_Integrador_3"
+			"value" : "BoostExample"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1360,6 +1428,66 @@
 			],
 			"type" : "STATIC",
 			"value" : "C:/Ingenier\u00eda Inform\u00e1tica UAX/2023-24/1er cuatrimestre/Programaci\u00f3n/Ejercicios/Caso-Final-Integrador-3"
+		},
+		{
+			"name" : "_BOOST_ROOT_LAST",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Last used BOOST_ROOT value."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "path/to/your/boost"
+		},
+		{
+			"name" : "_Boost_COMPONENTS_SEARCHED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Components requested for this build tree."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "_Boost_INCLUDE_DIR_LAST",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Last used Boost_INCLUDE_DIR value."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "Boost_INCLUDE_DIR-NOTFOUND"
+		},
+		{
+			"name" : "_Boost_NAMESPACE_LAST",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Last used Boost_NAMESPACE value."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "boost"
+		},
+		{
+			"name" : "_Boost_USE_MULTITHREADED_LAST",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Last used Boost_USE_MULTITHREADED value."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
